@@ -1,0 +1,3 @@
+- Criação do arquivo README.md
+- Commit do arquivo no projeto local
+- Push para o github
