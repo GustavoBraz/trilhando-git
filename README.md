@@ -1,3 +1,3 @@
 - Criação do arquivo README.md
 - Commit do arquivo no projeto local
-- Push para o github
+- Push para o github: git push origin master
